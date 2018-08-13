@@ -1,6 +1,6 @@
 The Zen of Autonomous Vehicles
 
-===========================
+==============================
 Dense is better than sparse.
 There should be one calibrated timestamp.
 Past, present and future is ground truth.
@@ -23,5 +23,5 @@ Simulators are one honking great idea -- let's do more of those!
 It is a safety problem.
  
 
-=====================
+=======================
 Public domain document.
